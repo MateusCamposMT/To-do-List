@@ -1,7 +1,7 @@
 
 <h1 align="center"><strong>Projeto To-do-list</strong></h1>
 
-<p align="center"><strong>Projeto feito para colocar em pratica os estudos em JS.</strong></p>
+<p align="center"><strong>Projeto feito para colocar em prática os estudos em JS.</strong></p>
 <p align="center">
   <a href="https://mateuscamposmt.github.io/To-do-List/">Link para o projeto</a>
 </p>  
